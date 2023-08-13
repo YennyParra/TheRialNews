@@ -1,0 +1,1 @@
+json.partial! "comments/comment", newscomment: @newscomment
